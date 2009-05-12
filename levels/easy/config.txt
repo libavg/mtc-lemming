@@ -1,0 +1,10 @@
+[basic]
+# total number of lems
+number = 1
+# how many have to survive
+goal = 5
+# source interval milliseconds
+interval = 500
+#interval = 5000
+# pixel per second
+speed = 100
