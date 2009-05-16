@@ -22,7 +22,7 @@ from libavg.AVGAppUtil import getMediaDir
 
 g_player = avg.Player.get()
 
-FINGERPOWER = 1
+FINGERPOWER = 0.1
 
 fingers = {}# AWGGGGH
 
